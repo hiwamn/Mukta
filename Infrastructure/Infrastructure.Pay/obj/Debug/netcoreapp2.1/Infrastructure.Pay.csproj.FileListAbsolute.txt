@@ -1,0 +1,5 @@
+C:\Users\3849824527\source\repos\Clinic\Infrastructure\Infrastructure.Pay\obj\Debug\netcoreapp2.1\Infrastructure.Pay.csprojAssemblyReference.cache
+C:\Users\3849824527\source\repos\Clinic\Infrastructure\Infrastructure.Pay\obj\Debug\netcoreapp2.1\Infrastructure.Pay.RazorAssemblyInfo.cache
+C:\Users\3849824527\source\repos\Clinic\Infrastructure\Infrastructure.Pay\obj\Debug\netcoreapp2.1\Infrastructure.Pay.RazorAssemblyInfo.cs
+C:\Users\3849824527\source\repos\Clinic\Infrastructure\Infrastructure.Pay\obj\Debug\netcoreapp2.1\Infrastructure.Pay.AssemblyInfoInputs.cache
+C:\Users\3849824527\source\repos\Clinic\Infrastructure\Infrastructure.Pay\obj\Debug\netcoreapp2.1\Infrastructure.Pay.AssemblyInfo.cs

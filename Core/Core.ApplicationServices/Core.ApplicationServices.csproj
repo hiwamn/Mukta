@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Library\Utility.Tools.csproj" />
+    <ProjectReference Include="..\..\..\Library\Utility.Tools\Utility.Tools.csproj" />
+    <ProjectReference Include="..\Core.Contracts\Core.Contracts.csproj" />
+    <ProjectReference Include="..\Core.Entities\Core.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PersianDate">
+      <HintPath>bin\Debug\netstandard2.0\PersianDate.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
